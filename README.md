@@ -1,6 +1,6 @@
-StipplingSketch
+AlphaLetra
 ===============
 
-Modify images to create a stippling style based on a given character.
+Modify images to create a stippling style based on a given character or string.
 
 Made with C++ and Openframeworks.
