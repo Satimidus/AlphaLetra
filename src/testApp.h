@@ -20,7 +20,9 @@ class testApp : public ofBaseApp{
 		void gotMessage(ofMessage msg);
 
 		ofImage photo;
-		ofColor whit;
+		ofColor blk;
+		ofColor holder;
 		ofPixels p;
-
+        bool pos1,dubs,noir;
+        ofTrueTypeFont stipFont, medFont;
 };
