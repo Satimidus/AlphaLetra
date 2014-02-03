@@ -10,7 +10,7 @@ character drawn on a canvas.
 ===================================================================================
 
 TO DO (from most to least significant):
-	- import images
+	<strike>- import images </strike>
 		-grayscale conversion
 		-image "simplification"; data reduction
 	- point density determination
