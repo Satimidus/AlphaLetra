@@ -23,6 +23,5 @@ class testApp : public ofBaseApp{
 		ofColor blk;
 		ofColor holder;
 		ofPixels p;
-        bool pos1,dubs,noir;
         ofTrueTypeFont stipFont, medFont;
 };
