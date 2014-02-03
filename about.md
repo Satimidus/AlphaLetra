@@ -1,3 +1,4 @@
+
 This program will take an image, convert it into grayscale and using the values of
 0-255, for black to white, will determine the density of "points" per a certain 
 given area to draw. This is akin to the art technique called stippling, except that
@@ -9,16 +10,15 @@ character drawn on a canvas.
 
 ===================================================================================
 
-TO DO (from most to least significant):
-	<strike>- import images </strike>
-		-grayscale conversion
-		-image "simplification"; data reduction
-	- point density determination
-	- character input
-		if [keyboard input]
-			use .ttf
-		else if [canvas input]
-			take input
-			convert to alpha img or .ttf(?)
-	- utils
-	- publishing output
+<b>TO DO (from most to least significant): </b>
+	<ul>
+	<li> <del>import images </del></li>
+		<ul> 
+		<li> <del> grayscale conversion </del></li>
+		<li> <del>image "simplification"; data reduction </del> </li>
+		</ul>
+	<li> point density determination </li> 
+	<li> character input; ttf if keyboard input, alpha img if canvas input </li>
+	<li> utils </li>
+	<li> publishing output </li>
+	</ul>
